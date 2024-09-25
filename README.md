@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Jamila Ameer]
 
-<!--
-**jamilaameer01/jamilaameer01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Engineer with a passion for building dynamic and responsive web applications. I specialize in both front-end and back-end development, and I love creating seamless user experiences. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Golden hawk Technology].
+- 💼 I’ve worked with various technologies including:
+  - Frontend: HTML, CSS, JavaScript ,TypeScript , Nextjs , React, Tailwind CSS , JQuery , Wordpress
+  - Backend: Node.js, Express, MongoDB, PostgreSQL ,Strapi
+  - Tools: Git, Docker, AWS, REST APIs, GraphQL
+
+
+## 📂 Projects
+
+Here are some of the projects I've worked on:
+
+- **[Project Name](link to your project)**: A brief description of what this project does.
+- **[Project Name](link to your project)**: A brief description of what this project does.
+- **[Project Name](link to your project)**: A brief description of what this project does.
+
+## 📫 How to Reach Me
+
+- 📧 Email: [ameerjamila10@gmail.com]
+- 🌐 Linkedin: [https://www.linkedin.com/in/jamila-ameer-jamilaameer10/]
+
+## 🌟 Skills
+
+- **Languages**: JavaScript, TypeScript, HTML, CSS etc.
+- **Frameworks**: React, Node.js, etc.
+- **Databases**: MongoDB, PostgreSQL, etc.
+- **Version Control**: Git, GitHub
+- **Others**: REST, GraphQL, Docker, etc.
+
+
