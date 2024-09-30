@@ -6,7 +6,7 @@ I'm a Full Stack Web Engineer with a passion for building dynamic and responsive
 
 - 🔭 I’m currently working on [Golden hawk Technology].
 - 💼 I’ve worked with various technologies including:
-  - Frontend: HTML, CSS, JavaScript ,TypeScript , Nextjs , React, Tailwind CSS , JQuery , Wordpress
+  - Frontend: HTML, CSS, JavaScript ,TypeScript , Nextjs , React, Tailwind CSS , JQuery , Wordpress.
   - Backend: Node.js, Express, MongoDB, PostgreSQL ,Strapi
   - Tools: Git, Docker, AWS, REST APIs, GraphQL
 
