@@ -10,15 +10,6 @@ I'm a Full Stack Web Engineer with a passion for building dynamic and responsive
   - Backend: Node.js, Express, MongoDB, PostgreSQL ,Strapi
   - Tools: Git, Docker, AWS, REST APIs, GraphQL
 
-
-## 📂 Projects
-
-Here are some of the projects I've worked on:
-
-- **[Project Name](link to your project)**: A brief description of what this project does.
-- **[Project Name](link to your project)**: A brief description of what this project does.
-- **[Project Name](link to your project)**: A brief description of what this project does.
-
 ## 📫 How to Reach Me
 
 - 📧 Email: [ameerjamila10@gmail.com]
